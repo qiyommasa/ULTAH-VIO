@@ -200,9 +200,9 @@ const animationTimeline = () => {
         "-=2"
     )
     .from(".hat", 0.5, {
-        x: -100,
+        x: -70,
         y: 350,
-        rotation: -180,
+        rotation: -130,
         opacity: 0,
     })
     .staggerFrom(
